@@ -1,8 +1,16 @@
-# JavaScript-Advance-Concepts
+# *JavaScript Advance Concepts*
 
 
-A lecture series of Deep JavaScript concepts 
 
- This repo contains Advance concepts in JavaScript 
+ This repo contains Advance concepts in JavaScript
+ 
+- Generator Functions
+- Async Generator Functions 
+- More  to come  
+ 
+ 
+ 
+ 
+ 
  
  
